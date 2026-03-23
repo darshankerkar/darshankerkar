@@ -4,7 +4,11 @@ I'm Darshan Kerkar, a BTech Information Technology student passionate about Full
 
 
 ##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-kerkar-4a237a325) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@darshankerkar05)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/31484221) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@darshankerkar05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshankerkar09@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-kerkar-4a237a325) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/darshankerkar/) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@darshankerkar05) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@darshankerkar05)  
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshankerkar09@gmail.com) 
 
 
 #  Tech Stack:
