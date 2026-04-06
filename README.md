@@ -25,18 +25,18 @@ I'm Darshan Kerkar, a BTech Information Technology student passionate about Full
 
 <tr>
 
-<td align="center" valign="top">
+<td valign="top">
 
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript"/><br>
 <img src="https://img.shields.io/badge/React-000000?style=flat&logo=react"/><br>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript"/><br>
 <img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat&logo=tailwind-css"/><br>
 <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap"/><br>
 <img src="https://img.shields.io/badge/FramerMotion-000000?style=flat&logo=framer"/><br>
-<img src="https://img.shields.io/badge/Lucide-000000?style=flat"/>
+<img src="https://img.shields.io/badge/Lucide-000000?style=flat&logoColor=white"/>
 
 </td>
 
-<td align="center" valign="top">
+<td valign="top">
 
 <img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"/><br>
 <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk"/><br>
@@ -47,7 +47,7 @@ I'm Darshan Kerkar, a BTech Information Technology student passionate about Full
 
 </td>
 
-<td align="center" valign="top">
+<td valign="top">
 
 <img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb"/><br>
 <img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql"/><br>
@@ -57,14 +57,14 @@ I'm Darshan Kerkar, a BTech Information Technology student passionate about Full
 
 </td>
 
-<td align="center" valign="top">
+<td valign="top">
 
 <img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker"/><br>
 <img src="https://img.shields.io/badge/DigitalOcean-000000?style=flat&logo=digitalocean"/><br>
 <img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render"/><br>
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel"/><br>
 <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git"/><br>
-<img src="https://img.shields.io/badge/Postman-000000?style=flat&logo=postman"/><br>
+<img src="https://img.shields.io/badge/Postman-000000?style=flat&logo=postman"/>
 
 </td>
 
@@ -72,7 +72,6 @@ I'm Darshan Kerkar, a BTech Information Technology student passionate about Full
 </table>
 
 </div>
-
 
 #  GitHub Stats:
 
