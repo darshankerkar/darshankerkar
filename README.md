@@ -11,102 +11,68 @@ I'm Darshan Kerkar, a BTech Information Technology student passionate about Full
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshankerkar09@gmail.com)
 
 
-#  Tech Stack:
+## Tech Stack
 
-###  <p align="center">Frontend Development</p>
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,react,tailwind,bootstrap,vite,figma&perline=8" />
-</p>
+<table>
+<tr>
+<th>Frontend</th>
+<th>Backend</th>
+<th>Databases</th>
+<th>Deployment & Tools</th>
+</tr>
 
-<p align="center">
-<marquee>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img src="https://img.shields.io/badge/FramerMotion-black?style=for-the-badge&logo=framer&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Lucide-React-black?style=for-the-badge&logo=lucide&logoColor=white"/>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-</marquee>
-</p>
+<tr>
 
+<td align="center" valign="top">
 
-###  <p align="center">Backend Development</p>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript"/><br>
+<img src="https://img.shields.io/badge/React-000000?style=flat&logo=react"/><br>
+<img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat&logo=tailwind-css"/><br>
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap"/><br>
+<img src="https://img.shields.io/badge/FramerMotion-000000?style=flat&logo=framer"/><br>
+<img src="https://img.shields.io/badge/Lucide-000000?style=flat"/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,go,nodejs,django&perline=6" />
-</p>
+</td>
 
-<p align="center">
-<marquee>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
-</marquee>
-</p>
+<td align="center" valign="top">
 
+<img src="https://img.shields.io/badge/Python-000000?style=flat&logo=python"/><br>
+<img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk"/><br>
+<img src="https://img.shields.io/badge/Go-000000?style=flat&logo=go"/><br>
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js"/><br>
+<img src="https://img.shields.io/badge/Django-000000?style=flat&logo=django"/><br>
+<img src="https://img.shields.io/badge/DjangoREST-000000?style=flat&logo=django"/>
 
-###  <p align="center">Databases</p>
+</td>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase&perline=5" />
-</p>
+<td align="center" valign="top">
 
-<p align="center">
-<marquee>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-</marquee>
-</p>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb"/><br>
+<img src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql"/><br>
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql"/><br>
+<img src="https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite"/><br>
+<img src="https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase"/>
 
+</td>
 
-###  <p align="center">AI / Computer Vision</p>
+<td align="center" valign="top">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=opencv&perline=1" />
-</p>
+<img src="https://img.shields.io/badge/Docker-000000?style=flat&logo=docker"/><br>
+<img src="https://img.shields.io/badge/DigitalOcean-000000?style=flat&logo=digitalocean"/><br>
+<img src="https://img.shields.io/badge/Render-000000?style=flat&logo=render"/><br>
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel"/><br>
+<img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git"/><br>
+<img src="https://img.shields.io/badge/Postman-000000?style=flat&logo=postman"/><br>
 
-<p align="center">
-<marquee>
-<img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
-</marquee>
-</p>
+</td>
 
+</tr>
+</table>
 
-###  <p align="center">DevOps / Deployment</p>
+</div>
 
-<p align="center">
-<marquee>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalocean&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-</marquee>
-</p>
-
-
-###  <p align="center">Tools</p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,postman&perline=4" />
-</p>
-
-<p align="center">
-<marquee>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-</marquee>
-</p>
 
 #  GitHub Stats:
 
