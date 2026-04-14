@@ -1,5 +1,5 @@
 #  About Me:
-I'm Darshan Kerkar, a BTech Information Technology student passionate about Full-Stack Development, AI/ML, and emerging technologies. I love building impactful projects and exploring innovative solutions that combine software and systems.<br><br>-  I’m currently working on **HireDesk**, an AI-based hiring management software for recruiters and candidates  <br>-  I’m currently learning **DRF, advanced React, and backend system design**  <br>-  I’m looking to collaborate on **open-source projects in Full-stack development and Machine Learning**  <br>-  Ask me about **React, Java, Firebase, MongoDB, and Django**  <br>-  How to reach me: darshankerkar09@gmail.com | [LinkedIn](https://www.linkedin.com/in/darshan-kerkar-4a237a325)
+I'm Darshan Kerkar, a BTech Information Technology student passionate about Full-Stack Development, AI/ML, and emerging technologies. I love building impactful projects and exploring innovative solutions that combine software and systems.<br><br>-  I’m currently working on **Recrify**, an AI-based hiring management software for recruiters and candidates  <br>-  I’m currently learning **DRF, advanced React, and backend system design**  <br>-  I’m looking to collaborate on **open-source projects in Full-stack development and Machine Learning**  <br>-  Ask me about **React, Java, Firebase, MongoDB, and Django**  <br>-  How to reach me: darshankerkar09@gmail.com | [LinkedIn](https://www.linkedin.com/in/darshan-kerkar-4a237a325)
  <br>-  Fun fact: I enjoy exploring emerging technologies and future-ready software trends.
 
 
@@ -32,9 +32,7 @@ I'm Darshan Kerkar, a BTech Information Technology student passionate about Full
 <img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat&logo=tailwind-css"/><br>
 <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap"/><br>
 <img src="https://img.shields.io/badge/FramerMotion-000000?style=flat&logo=framer"/><br>
-<img src="https://img.shields.io/badge/Lucide-000000?style=flat&logoColor=white"/>
-
-</td>
+<img src="https://img.shields.io/badge/Lucide-000000?style=flat&logo=lucide&logoColor=white"/></br>
 
 <td valign="top">
 
