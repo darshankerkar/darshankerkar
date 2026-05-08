@@ -1,6 +1,11 @@
-#  About Me:
-I'm Darshan Kerkar, a BTech Information Technology student passionate about Full-Stack Development, AI/ML, and emerging technologies. I love building impactful projects and exploring innovative solutions that combine software and systems.<br><br>-  I’m currently working on **Recrify**, an AI-based hiring management software for recruiters and candidates  <br>-  I’m currently learning **DRF, advanced React, and backend system design**  <br>-  I’m looking to collaborate on **open-source projects in Full-stack development and Machine Learning**  <br>-  Ask me about **React, Java, Firebase, MongoDB, and Django**  <br>-  How to reach me: darshankerkar09@gmail.com | [LinkedIn](https://www.linkedin.com/in/darshan-kerkar-4a237a325)
- <br>-  Fun fact: I enjoy exploring emerging technologies and future-ready software trends.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello%2C%20I'm%20Darshan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40"/>
+</p>
+<p align="center">
+  <a href="https://github.com/darshankerkar?tab=repositories">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=3000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer&repeat=false" alt="Typing SVG" />
+  </a>
+</p>
 
 
 ## Socials:
