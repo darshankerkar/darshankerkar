@@ -1,20 +1,20 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello%2C%20I'm%20Darshan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40"/>
 </p>
+
 <p align="center">
   <a href="https://github.com/darshankerkar?tab=repositories">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=3000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer&repeat=false" alt="Typing SVG" />
   </a>
 </p>
 
-
 ## Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darshan-kerkar-4a237a325)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/darshankerkar/)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@darshankerkar05)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/darshankerkar/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshankerkar09@gmail.com)
-
 
 ## Tech Stack
 
@@ -37,7 +37,9 @@
 <img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat&logo=tailwind-css"/><br>
 <img src="https://img.shields.io/badge/Bootstrap-000000?style=flat&logo=bootstrap"/><br>
 <img src="https://img.shields.io/badge/FramerMotion-000000?style=flat&logo=framer"/><br>
-<img src="https://img.shields.io/badge/Lucide-000000?style=flat&logo=lucide&logoColor=white"/></br>
+<img src="https://img.shields.io/badge/Lucide-000000?style=flat&logo=lucide&logoColor=white"/><br>
+
+</td>
 
 <td valign="top">
 
@@ -76,13 +78,13 @@
 
 </div>
 
-#  GitHub Stats:
+## GitHub Stats:
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=darshankerkar&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats-one-zeta-24.vercel.app/api?username=darshankerkar&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github&cache_seconds=1800"/>
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darshankerkar&layout=compact&theme=tokyonight&hide_border=false&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats-one-zeta-24.vercel.app/api/top-langs/?username=darshankerkar&layout=compact&theme=tokyonight&hide_border=false&cache_seconds=1800"/>
 
 </p>
 
@@ -97,4 +99,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=darshankerkar&theme=tokyo-night"/>
 
 </p>
-
