@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/Java-000000?style=flat&logo=openjdk"/><br>
 <img src="https://img.shields.io/badge/Go-000000?style=flat&logo=go"/><br>
 <img src="https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js"/><br>
-<img src="https://img.shields.io/badge/Django-000000?style=flat&logo=django"/><br>
+<img src="https://img.shields.io/badge/FastAPI-000000?style=flat&logo=fastapi"/><br>
 <img src="https://img.shields.io/badge/DjangoREST-000000?style=flat&logo=django"/>
 
 </td>
@@ -90,12 +90,12 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=darshankerkar&theme=tokyonight&hide_border=false"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=darshankerkar&theme=tokyonight&hide_border=false"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=darshankerkar&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph-red-chi.vercel.app/graph?username=darshankerkar&theme=tokyo-night"/>
 
 </p>
