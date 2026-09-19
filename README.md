@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hello%2C%20I'm%20Darshan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZkOHJ4bGNrMDJ2dDJxeGF6dW9zbGhnemc5MTY1OGZvMHQza2E1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="320" alt="Glitch loop animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/darshankerkar?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=3000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer&repeat=false" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Darshan;Full+Stack+Developer&repeat=false" alt="Typing SVG" />
   </a>
 </p>
 
@@ -90,7 +90,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=darshankerkar&theme=tokyonight&hide_border=false"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=darshankerkar&theme=tokyonight&hide_border=false&dates=1a1b27"/>
 
 </p>
 
