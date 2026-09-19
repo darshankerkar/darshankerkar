@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZkOHJ4bGNrMDJ2dDJxeGF6dW9zbGhnemc5MTY1OGZvMHQza2E1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="320" alt="Glitch loop animation" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hlOHI4OWR5dHU3N2NxMG96ODIxOWw3eHo3aWo2aDd1bW1wYml2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="320" alt="Code hacking animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/darshankerkar?tab=repositories">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1500&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Darshan;Full+Stack+Developer&repeat=false" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Darshan;Full+Stack+Developer&repeat=true" alt="Typing SVG" />
   </a>
 </p>
 
